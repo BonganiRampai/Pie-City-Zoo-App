@@ -31,15 +31,10 @@ The goal was to practice basic **HTML**, **CSS**, and **project structure** for 
 ![{FFEF7E5B-ACE4-4C12-A833-D23B9A82BC70}](https://github.com/user-attachments/assets/02207618-f98b-4d2a-9286-8be87031e4db)
 
 
-## How to View the Website
+## View live
 
-If deployed on GitHub Pages:
-[Click here to visit the live site](https://bongani-rampai.github.io/pie-city-zoo)
+[Click here to visit the live site](https://bonganirampai.github.io/Pie-City-Zoo-App)
 
-Or:
-
-1. Download the files
-2. Open `index.html` in your browser
 
 ## Author
 
