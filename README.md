@@ -33,7 +33,7 @@ The goal was to practice basic **HTML**, **CSS**, and **project structure** for 
 
 ## View live
 
-[View Live](https://bonganirampai.github.io/Pie-City-Zoo-App/)
+[View Live](https://bonganirampai.github.io/pie-city-zoo-app/)
 
 
 ## Author
