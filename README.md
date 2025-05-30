@@ -34,7 +34,7 @@ The goal was to practice basic **HTML**, **CSS**, and **project structure** for 
 ## How to View the Website
 
 If deployed on GitHub Pages:
-[Click here to visit the live site](https://bongani-rampai.github.io/pie-city-zoo-app)
+[Click here to visit the live site](https://bongani-rampai.github.io/pie-city-zoo)
 
 Or:
 
