@@ -1,48 +1,68 @@
-# Pie City Zoo Website
+# 🦁 Pie City Zoo Website
 
-Welcome to the Pie City Zoo project — a beginner web development project I completed as part of the FNB free short course.
+Welcome to the **Pie City Zoo** – a beginner-friendly web development project created as part of the FNB free short course. This static website introduces a fictional zoo with multiple pages, styled layout, and a functional contact form.
 
-## About the Project
+---
 
-This project is a simple static website for a fictional zoo called **Pie City Zoo**. It includes:
+## 📖 About the Project
 
-- A homepage introducing the zoo
-- Animal and places information pages
-- A feedback form
-- Simple CSS styling
+The **Pie City Zoo** website is designed to practice core front-end web development skills using only HTML and CSS. It demonstrates a simple, structured layout including:
 
-The goal was to practice basic **HTML**, **CSS**, and **project structure** for web development.
+- 🏠 Homepage introducing the zoo
+- 🐾 Animal and attractions information pages
+- 📨 Feedback form for visitor messages
+- 🎨 Basic styling with CSS (including Flexbox and Grid)
 
-## Technologies Used
+---
 
-- HTML5
-- CSS3
-- Basic layout using Flexbox/Grid
+## 🌐 Live Demo
 
-## Features
+👉 [Click here to view the live site](https://bonganirampai.github.io/Pie-City-Zoo-App/)
 
-- Mobile-friendly layout
-- Styled navigation bar
-- Contact form with name and message fields
-- Information about different zoo animals
+---
 
-## Screenshot
+## ✨ Features
 
-![{FFEF7E5B-ACE4-4C12-A833-D23B9A82BC70}](https://github.com/user-attachments/assets/02207618-f98b-4d2a-9286-8be87031e4db)
+- ✅ Mobile-responsive layout
+- ✅ Styled navigation bar for smooth navigation
+- ✅ Simple contact form with name and message input
+- ✅ Informative content about zoo animals and attractions
 
+---
 
-## View live
+## 🧰 Technologies Used
 
-[View Live](https://bonganirampai.github.io/Pie-City-Zoo-App/)
+- **HTML5** – semantic and accessible markup
+- **CSS3** – layout and design styling
+- **Flexbox & Grid** – responsive layout techniques
 
+---
 
-## Author
+## 📸 Screenshot
 
-- Created by Bongani Rampai
-- Part of the FNB free web development short course
+![Pie City Zoo Website Preview](https://github.com/user-attachments/assets/02207618-f98b-4d2a-9286-8be87031e4db)
 
-## What I Learned
+---
 
-- How to structure a simple HTML project
-- Basics of styling with CSS
-- How to use GitHub for code hosting
+## 🧑‍💻 Author
+
+**Bongani Rampai**  
+- GitHub: [@BonganiRampai](https://github.com/BonganiRampai)  
+- LinkedIn: [linkedin.com/in/bongani-rampai](https://www.linkedin.com/in/bongani-rampai)  
+- Email: [bonganerampai@gmail.com](mailto:bonganerampai@gmail.com)
+
+---
+
+## 🧠 What I Learned
+
+- ✅ Structuring a basic HTML website from scratch
+- ✅ Applying foundational CSS for layout and design
+- ✅ Hosting projects using GitHub Pages
+- ✅ Creating meaningful, accessible web content
+
+---
+
+## 🙌 Acknowledgements
+
+- Project completed as part of the **FNB Free Web Development Short Course**
+- Designed with simplicity and responsiveness in mind
